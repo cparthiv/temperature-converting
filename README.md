@@ -1,5 +1,5 @@
 # temperature-converting
-```
+```js
 // Kelvin
 const kelvin = 0;
 // Converting to celsius
